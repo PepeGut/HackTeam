@@ -1,1 +1,4 @@
-git add 
+git add
+git commit -m 'Subo la estructura del proyecto al repositorio de GitHub'
+git remote add origin git@github.com:my_company/my_project.git
+git push -u origin master
